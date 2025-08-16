@@ -1,6 +1,6 @@
 # E-Learning Website using HTML5, CSS3, Bootstrap5 and JavaScript 
 
-![E-Learning Website](preview.png)
+![E-Learning Website](https://github.com/Shreeshanth22/E-learning-Website/blob/main/Preview.png)
 
 The project involves the creation of an e-learning website using HTML, CSS, Bootstrap 5, and JavaScript. The website aims to provide a user-friendly and responsive platform for learners to access educational content. 
 
