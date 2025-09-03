@@ -30,7 +30,7 @@ Before you begin, ensure you have the following prerequisites:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shreeshanth22/E-Learning-Website-Frontend.git
+   git clone https://github.com/Shreeshanth22/E-Learning-Website.git
 
 2. Open the project in your preferred text editor.
 3. Launch the `index.html` file in a web browser.
